@@ -34,6 +34,7 @@ class Perceptron:
 				break
 
 def main():
+	print('Perceptron')
 	p = Perceptron(num_inputs=2, lr=0.01)
 
 	df = pd.read_csv('bmi.csv')
