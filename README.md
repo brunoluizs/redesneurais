@@ -6,6 +6,8 @@ Repositório para aulas de Redes Neurais Artificiais.
 
 Neste repositório, serão incluídos os códigos referentes ao conteúdo lecionado na disciplina de Redes Neurais Artificiais, do curso de Engenharia de Software da faculdade Uniguaçu, no semestre de 2026/2.
 
+- [Documentação](docs.md)
+
 ## Tecnologias
 
 - Python 
