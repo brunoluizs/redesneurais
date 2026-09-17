@@ -2,7 +2,7 @@
 
 Texto explicativo sobre os fundamentos da disciplina de RNA
 
-Leia o [README](README.md)
+Leia o [README](../README.md)
 
 ## Parte 1: etc
 
